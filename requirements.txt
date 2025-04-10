@@ -1,0 +1,7 @@
+openai
+langchain
+python-dotenv
+streamlit
+pillow
+requests
+gtts

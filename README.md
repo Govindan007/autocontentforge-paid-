@@ -10,5 +10,6 @@ An AI-powered autonomous content generation web app.
 ## Setup
 1. Clone the repo
 2. Create a `.env` file from `.env.example`
-3. Run: `pip install -r requirements.txt`
-4. Launch app: `streamlit run streamlit_app.py`
+3. Replace Your_OpeAI_Key with your open ai key 
+4. Run: `pip install -r requirements.txt`
+5. Launch app: `streamlit run streamlit_app.py`
